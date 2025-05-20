@@ -14,5 +14,3 @@ Front-end developer specializing in creating engaging web experiences.
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-ku66&layout=compact&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-ku66&show_icons=true&theme=tokyonight&count_private=true&hide=issues)
